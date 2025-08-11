@@ -24,6 +24,7 @@ body {
 
   display: flex;
   padding: 16px;
+  gap: 16px;
 }
 
 .icon {
@@ -38,7 +39,6 @@ body {
   align-items: center;
   justify-content: center;
 
-  margin-right: 16px;
   flex-shrink: 0;
 }
 
@@ -67,7 +67,7 @@ body {
 }
 
 .text {
-  margin: 8px 0;
+  margin: 8px 0 16px;
 }
 
 button {
