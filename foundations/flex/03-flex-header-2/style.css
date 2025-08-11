@@ -34,16 +34,9 @@ body {
   font-style: italic;
 }
 
-.left {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 16px;
-}
-
+.left,
 .right {
   display: flex;
-  justify-content: center;
   align-items: center;
   gap: 16px;
 }
